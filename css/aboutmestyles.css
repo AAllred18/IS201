@@ -7,6 +7,18 @@
     border-bottom: solid 1px #555555;
 }
 
+.footer {
+    border-top: solid 1px #555555;
+    padding-top: 5px;
+    height: 65px;
+    font-size: 8px;
+    text-align: center;
+}
+
+.mainbody {
+    padding-bottom: 10px;
+}
+
 .websiteTitle {
     float: left;
     font-size: 20px;
