@@ -1,0 +1,27 @@
+.bold {
+    font-weight: bold;
+    font-size: 25px;
+}
+.italicize {
+    font-style: italic;
+}
+.tab {
+    display: inline-block
+    margin-left: 40px;
+}
+.subheading {
+    font-weight: normal;
+    font-size: 16px;
+}
+.bodytext {
+    font-size: 15px;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10%;
+}
+.aligncenter {
+    text-align: center;
+}
