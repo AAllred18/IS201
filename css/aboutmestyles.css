@@ -53,9 +53,9 @@ a:hover {
     text-decoration: underline;
 }
 
-.center {
+.centerlinked {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 3%;
+    width: 5%;
 }
